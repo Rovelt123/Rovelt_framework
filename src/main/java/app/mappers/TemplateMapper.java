@@ -4,7 +4,7 @@ import app.dtos.TemplateDTO;
 import app.entities.Template;
 import app.mappers.generic.IMapper;
 
-public class WeddingMapper implements IMapper<Template, TemplateDTO> {
+public class TemplateMapper implements IMapper<Template, TemplateDTO> {
 
 
     @Override
